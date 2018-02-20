@@ -189,7 +189,8 @@ a,a:hover {
 }
 
 nav,nav a {
-    color: #FFF
+    color: RGB(70,70,70);
+    font-weight: bold;
 }
 
 .loader-a {
@@ -233,7 +234,6 @@ nav {
     font-size: 15px;
     letter-spacing: 1px;
     float: right;
-    padding: 65px 100px 0 0
 }
 
 nav li {
